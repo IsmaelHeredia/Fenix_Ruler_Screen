@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/04/23 17:13:43.000.716,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/28 23:03:28.000.080,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/05/16 22:03:48.000.080,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/08/09 12:59:57.000.903,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/09/23 21:36:21.000.459,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/10/17 14:16:18.000.084,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/10/17 14:16:44.000.985,C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\test\Desktop\Mis Programas\Fenix Ruler Screen\Fenix Ruler Screen\ruler.pas</Transaction>
+    <Transaction>2014/10/17 14:16:44.000.985,C:\Users\test\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\test\Desktop\Mis Programas\Fenix Ruler Screen\Fenix Ruler Screen\ruler.dfm</Transaction>
+    <Transaction>2014/10/17 14:16:48.000.703,C:\Users\test\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\test\Desktop\Mis Programas\Fenix Ruler Screen\Fenix Ruler Screen\fenixrulerscreen.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

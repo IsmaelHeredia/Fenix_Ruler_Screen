@@ -1,0 +1,7 @@
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\Ruler\Ruler\Ruler\bin\Debug\Ruler.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\Ruler\Ruler\Ruler\bin\Debug\Ruler.pdb
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\Ruler\Ruler\Ruler\obj\Debug\Ruler.csprojResolveAssemblyReference.cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\Ruler\Ruler\Ruler\obj\Debug\Ruler.Properties.Resources.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\Ruler\Ruler\Ruler\obj\Debug\Ruler.csproj.GenerateResource.Cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\Ruler\Ruler\Ruler\obj\Debug\Ruler.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\Ruler\Ruler\Ruler\obj\Debug\Ruler.pdb

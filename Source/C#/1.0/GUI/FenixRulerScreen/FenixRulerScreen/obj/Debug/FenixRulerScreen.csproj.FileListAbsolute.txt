@@ -1,0 +1,8 @@
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\bin\Debug\FenixRulerScreen.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\bin\Debug\FenixRulerScreen.pdb
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\obj\Debug\FenixRulerScreen.csprojResolveAssemblyReference.cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\obj\Debug\FenixRulerScreen.FormHome.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\obj\Debug\FenixRulerScreen.Properties.Resources.resources
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\obj\Debug\FenixRulerScreen.csproj.GenerateResource.Cache
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\obj\Debug\FenixRulerScreen.exe
+C:\Users\TheRooster\Desktop\Programas personales\Programas Parte 3\Fenix Ruler Screen\GUI\FenixRulerScreen\FenixRulerScreen\obj\Debug\FenixRulerScreen.pdb
